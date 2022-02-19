@@ -64,7 +64,7 @@
 <h1 align="center">📫 Contacting Me</h1>
 
 <div align="center">
-    You can contact me by email at [sam@hirst.me](sam@hirst.me).
+    You can contact me by email at <a href="mailto:sam@hirst.me">sam@hirst.me</a>.
 </div>
 
 <h1 align="center">🖥️ Check Out My Repos Below...</h1>
